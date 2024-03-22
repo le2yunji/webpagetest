@@ -1,0 +1,25 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+} 
+.login {
+    color: ghostwhite;
+    border: 0;
+}
+
+button {
+    background-color: #ffb938;
+    padding: 7px 55px;
+}
+img {
+    content: 5rem;
+}
+
+p{
+    font-size: 10px;
+}
+
+form{
+    align-content: center;
+}
+
